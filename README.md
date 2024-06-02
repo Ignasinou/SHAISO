@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/shaiso.png" width="200px">
+<img src="assets/SHAISO.png" width="200px">
 ## ShAISo: Ships, AIS, and Sound
 
 </div>
