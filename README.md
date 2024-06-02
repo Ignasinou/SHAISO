@@ -2,9 +2,9 @@
 
 <img src="assets/SHAISO.png" width="200px">
 
-</div>
-
 ## ShAISo: Ships, AIS, and Sound
+
+</div>
 
 **ShAISo is an innovative project that merges music (or noise) with Automatic Identification System (AIS) technology.**
 
